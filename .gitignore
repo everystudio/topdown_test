@@ -41,8 +41,8 @@ temp_c/*
 
 */*.apk
 
-Assets/02texture/assetstore/*
-Assets/02texture/assetstore.meta
+Assets/TopDownEngine/*
+Assets/TopDownEngine.meta
 
 Assets/Energy Bar Toolkit/Example/*
 Assets/Energy Bar Toolkit/Example.meta
